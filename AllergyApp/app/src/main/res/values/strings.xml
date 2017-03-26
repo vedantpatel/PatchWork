@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">PatchWork</string>
+
+
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!--
+
+    <string-array name="WildLife">
+        <item>text_string</item>
+    </string-array>
+
+
+    <string-array name="Metals">
+        <item>text_string</item>
+    </string-array>
+
+    <string-array name="WildPlants">
+        <item>text_string</item>
+    </string-array>
+-->
+
+    <string-array name="Fragrances">
+        <item>Oak moss absolute</item>
+        <item>Cinnamic Aldehyde</item>
+        <item>Eugenol</item>
+        <item>Isoeugenol</item>
+        <item>Geraniol</item>
+        <item>Alpha amyl cinnamic alcohol</item>
+        <item>Hydroxycitronellal</item>
+    </string-array>
+
+    <string-array name="Metal_Cosmetics">
+        <item>Nickel</item>
+        <item>Cobalt</item>
+        <item>Zinc (sunscreen)</item>
+        <item>Chrome</item>
+        <item>Paraben Mix</item>
+        <item>Neomycin</item>
+        <item>Benzocaine</item>
+        <item>Clioquinol</item>
+
+    </string-array>
+
+    <string-array name="Natural_Contact">
+    <item>Balsam of Peru</item>
+    <item>Poison Ivy</item>
+    <item>Lanolin (Wood Alcohols)</item>
+    <item>Primin</item>
+    <item>Latex</item>
+    <item>Colophonium (rosin)</item>
+    <item>Formaldehyde</item>
+    <item>Mercapto mix (rubber adhesives)</item>
+
+
+    </string-array>
+
+    <string name="title_activity_allergy_info">PatchWork</string>
+</resources>
